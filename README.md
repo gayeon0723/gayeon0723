@@ -21,7 +21,7 @@
 - 2번
 [네이버](https://www.naver.com) <br>
 ```
-systemout.printIn()
+System.out.printIn()
 ```
 # :smirk:
 ## :joy:
